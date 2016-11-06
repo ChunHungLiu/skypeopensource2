@@ -12,6 +12,11 @@ LGPL 3.0
 A commercial license is also avaiable on request.
 
 
+## Updated 2016-11-06 07:30
+
+Program still working OK. Some small bug with small reply on "get relay nodes" from supernode command.
+
+
 ## Updated 2016-10-05 20:00
 
 Program still working OK.
